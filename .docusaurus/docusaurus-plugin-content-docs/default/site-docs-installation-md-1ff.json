@@ -1,0 +1,27 @@
+{
+  "id": "Installation",
+  "title": "Installation",
+  "description": "To install FigLang on your Linux or MacOS machine, you can use the following bash command:",
+  "source": "@site/docs/Installation.md",
+  "sourceDirName": ".",
+  "slug": "/Installation",
+  "permalink": "/docs/Installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fig introduction",
+    "permalink": "/docs/Fig introduction"
+  },
+  "next": {
+    "title": "Hello World",
+    "permalink": "/docs/Hello World"
+  }
+}

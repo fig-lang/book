@@ -1,0 +1,23 @@
+{
+  "id": "Fig introduction",
+  "title": "Fig introduction",
+  "description": "Fig is a modern, high-level programming language designed to harness the power and versatility of Web Assembly (Wasm) across both backend and frontend development. With Fig, developers can write concise and expressive code that seamlessly compiles to efficient and portable Wasm bytecode, enabling unparalleled flexibility in application deployment.",
+  "source": "@site/docs/Fig introduction.md",
+  "sourceDirName": ".",
+  "slug": "/Fig introduction",
+  "permalink": "/docs/Fig introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Fig introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/docs/Installation"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/Comments",
+  "title": "Comments",
+  "description": "Comments in Fig are used to add explanatory notes or documentation to the code. There are two types of comments:",
+  "source": "@site/docs/tutorial-basics/Comments.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Comments",
+  "permalink": "/docs/tutorial-basics/Comments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/Comments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Variables",
+    "permalink": "/docs/tutorial-basics/Variables"
+  },
+  "next": {
+    "title": "Control flow",
+    "permalink": "/docs/tutorial-basics/Control flow"
+  }
+}

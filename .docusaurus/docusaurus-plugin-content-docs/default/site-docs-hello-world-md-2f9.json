@@ -1,0 +1,27 @@
+{
+  "id": "Hello World",
+  "title": "Hello World",
+  "description": "To create a simple \"Hello World\" program in Fig, follow these steps:",
+  "source": "@site/docs/Hello World.md",
+  "sourceDirName": ".",
+  "slug": "/Hello World",
+  "permalink": "/docs/Hello World",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Hello World.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/Installation"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

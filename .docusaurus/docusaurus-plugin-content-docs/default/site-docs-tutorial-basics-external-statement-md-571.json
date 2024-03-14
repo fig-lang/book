@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/External Statement",
+  "title": "External Statement",
+  "description": "The external statement allows you to import functions from the host language environment, such as JavaScript, which can be executed within the WebAssembly (WASM) environment. This enables Fig to interact with the host environment seamlessly.",
+  "source": "@site/docs/tutorial-basics/External Statement.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/External Statement",
+  "permalink": "/docs/tutorial-basics/External Statement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/External Statement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Types",
+    "permalink": "/docs/tutorial-basics/Data Types"
+  },
+  "next": {
+    "title": "Functions",
+    "permalink": "/docs/tutorial-basics/Functions"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/Variables",
+  "title": "Variables",
+  "description": "Variables in Fig are used to store and manipulate data. There are two types of variables:",
+  "source": "@site/docs/tutorial-basics/Variables.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Variables",
+  "permalink": "/docs/tutorial-basics/Variables",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/Variables.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Comments",
+    "permalink": "/docs/tutorial-basics/Comments"
+  }
+}

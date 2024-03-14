@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Fig introduction",
+          "docs": [
+            {
+              "id": "Fig introduction",
+              "path": "/docs/Fig introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Hello World",
+              "path": "/docs/Hello World",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation",
+              "path": "/docs/Installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Comments",
+              "path": "/docs/tutorial-basics/Comments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Control flow",
+              "path": "/docs/tutorial-basics/Control flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Data Types",
+              "path": "/docs/tutorial-basics/Data Types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/External Statement",
+              "path": "/docs/tutorial-basics/External Statement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Functions",
+              "path": "/docs/tutorial-basics/Functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Import",
+              "path": "/docs/tutorial-basics/Import",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Variables",
+              "path": "/docs/tutorial-basics/Variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Fig introduction",
+                "label": "Fig introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
