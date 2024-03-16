@@ -71,7 +71,6 @@ colorMode: {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Fig',
         logo: {
           alt: 'Fig Logo',
           src: '/img/transparent-fig-white.png',
@@ -83,7 +82,6 @@ colorMode: {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/fig-lang/fig',
             label: 'GitHub',
@@ -110,10 +108,6 @@ colorMode: {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/fig-lang/fig',

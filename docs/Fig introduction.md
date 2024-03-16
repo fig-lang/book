@@ -25,7 +25,7 @@ Sample Code:
 import std;
 
 // Hello, World! in Fig
-fn main() {
+export fn main() {
     print_str("Hello, World!");
 }
 ```
