@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 The `server.fig` standard library provides functions for handling HTTP requests and generating HTTP responses. This document outlines the available functions and their usage.
 
 ## Functions
